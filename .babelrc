@@ -1,6 +1,9 @@
 
-   
 {
+  "plugins": [
+    "react-require"
+  ]
+,
   "presets": [
     "@babel/preset-env"
   ]
